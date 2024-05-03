@@ -4,7 +4,7 @@ Backend Architecture:
 ![Untitled-2024-03-10-0151](https://github.com/sunnykumar26/inkspired_blog_app/assets/113859373/32f745d0-ced6-4841-acf4-ee9cb5ec0691)
 
 
-![image](https://github.com/sunnykumar26/inkspired_blog_app/assets/113859373/4a46ba42-1276-4b07-9c3a-dd592e7cd652)
+![Screenshot_20240504_023520](https://github.com/sunnykumar26/inkspired_blog_app/assets/113859373/6daa5818-6413-4f49-b532-2b4740559020)
 
 # Inkspired - a blog application 
 
